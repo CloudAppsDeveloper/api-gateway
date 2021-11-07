@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+target/classes/application.properties
+*.MF
+target/classes/META-INF/maven/com.esms.ms/simple-api-gateway/pom.xml
+target/classes/META-INF/maven/com.esms.ms/simple-api-gateway/pom.properties
+*.prefs
+.project
+.DS_Store
+.classpath
