@@ -29,3 +29,4 @@ target/classes/META-INF/maven/com.esms.ms/simple-api-gateway/pom.properties
 .project
 .DS_Store
 .classpath
+/target/*

@@ -8,10 +8,10 @@
 		<version>2.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.esms.ms</groupId>
-	<artifactId>simple-api-gateway</artifactId>
+	<groupId>com.cloudapps.developer</groupId>
+	<artifactId>api-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>simple-api-gateway</name>
+	<name>api-gateway</name>
 	<description>Simple Api Gateway</description>
 	<properties>
 		<java.version>1.8</java.version>
