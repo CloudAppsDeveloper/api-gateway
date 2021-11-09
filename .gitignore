@@ -30,3 +30,9 @@ target/classes/META-INF/maven/com.esms.ms/simple-api-gateway/pom.properties
 .DS_Store
 .classpath
 /target/*
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+*.xml
